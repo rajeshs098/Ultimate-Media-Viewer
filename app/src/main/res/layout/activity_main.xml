@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF0000"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/mainbg" />
+
+    <ImageView
+        android:id="@+id/playvideo"
+        android:layout_width="118dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="368dp"
+        android:foreground="@drawable/hover_effect"
+        android:scaleType="centerCrop"
+        android:src="@drawable/videopngggg" />
+
+    <ImageView
+        android:id="@+id/uploadpdf"
+        android:layout_width="108dp"
+        android:layout_height="96dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="645dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginBottom="-397dp"
+        android:foreground="@drawable/hover_effect"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pdfpngggg" />
+
+    <ImageView
+        android:id="@+id/anotherImage"
+        android:layout_width="124dp"
+        android:layout_height="92dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="195dp"
+        android:layout_marginEnd="242dp"
+        android:foreground="@drawable/hover_effect"
+        android:scaleType="centerCrop"
+        android:src="@drawable/imgpnggg" />
+
+    <ImageView
+        android:id="@+id/playMusic"
+        android:layout_width="118dp"
+        android:layout_height="103dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="498dp"
+        android:layout_marginEnd="250dp"
+        android:layout_marginBottom="218dp"
+        android:foreground="@drawable/hover_effect"
+        android:scaleType="centerCrop"
+        android:src="@drawable/songpngggg" />
+
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338073425579",
+    "project_id": "multimediauploder",
+    "storage_bucket": "multimediauploder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338073425579:android:1275bc242fdc13bd8849ee",
+        "android_client_info": {
+          "package_name": "com.example.multimediauploder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338073425579-il6c9f7ogihtql80cohh0hegncl3dtp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9J1NBGT3eZ1fB1t6ijEXAGm5ZPcc5YJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338073425579-il6c9f7ogihtql80cohh0hegncl3dtp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
